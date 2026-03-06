@@ -37,5 +37,5 @@ This project was created to practice network scanning techniques and to better u
 
 ## Author
 
-Even Torkildsrud  
+Even Hynden Torkildsrud  
 Bachelor in Information Technology – Cybersecurity
