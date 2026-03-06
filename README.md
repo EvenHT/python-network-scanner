@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Network Scanner
 
 A lightweight network scanner written in Python that scans common TCP ports and identifies running services on a target machine.
@@ -33,3 +34,6 @@ Example:
 ## Purpose
 
 This project was created to develop practical networking and cybersecurity skills, including port scanning and service enumeration.
+=======
+# python-network-scanner
+>>>>>>> 7cc49d79d1836efa7d245ddb9d730162369ece16
