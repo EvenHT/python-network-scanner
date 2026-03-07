@@ -11,7 +11,7 @@ A lightweight network scanner written in Python that scans common TCP ports and 
 
 ## Example
 
-![Example scan](example-scan.png)
+![Example scan](screenshots/example_scan.png)
 
 ## Usage
 
